@@ -1,12 +1,12 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Open, model-agnostic harness for the last mile of AI — the glam CLI.",
   "homepage": "https://glamworks.github.io",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/glamworks/glamfire/releases/download/v0.5.0/glam-windows-x64.exe#/glam.exe",
-      "hash": "5e2284b4ae2e5dda414a3d19413fd72336292e2a7e61ff0a43164aa5c59a0581",
+      "url": "https://github.com/glamworks/glamfire/releases/download/v0.6.0/glam-windows-x64.exe#/glam.exe",
+      "hash": "f3414cdcb618904628e34dc829263782792c11d389baaa74055f5517eb07a166",
       "bin": "glam.exe"
     }
   },
